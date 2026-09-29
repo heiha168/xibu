@@ -28,4 +28,3 @@
 * [	上海夏日玩水全攻略:从玛雅到热带风暴的清凉地图	](xibu26.md)
 * [	魔都精酿地图:从工业风酒厂到社区小酒馆	](xibu27.md)
 * [	上海旅行路线全攻略合集:情侣、闺蜜、独行与多日游一站式指南	](xibu28.md)
-<img width="754" height="628" alt="image" src="https://github.com/user-attachments/assets/36014573-9de5-42b7-bb47-94079abfb680" />
